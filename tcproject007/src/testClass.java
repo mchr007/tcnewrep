@@ -1,4 +1,3 @@
-
 public class testClass {
 	
 	private String name;
@@ -19,7 +18,7 @@ public class testClass {
 
 	
 	public static void main(String args[]){
-		testClass obj = new testClass("Michail", 100);
+		testClass obj = new testClass("Michail", 150);
 		System.out.println(obj.getName() + " " + obj.getAge());
 	}
 }
