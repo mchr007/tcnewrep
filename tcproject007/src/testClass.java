@@ -19,6 +19,6 @@ public class testClass {
 	
 	public static void main(String args[]){
 		testClass obj = new testClass("Ksenofon", 111);
-		System.out.println(obj.getName() + " " + objgetAge());
+		System.out.println(obj.getName() + " " + obj.getAge());
 	}
 }
