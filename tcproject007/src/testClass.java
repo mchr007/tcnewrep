@@ -20,6 +20,6 @@ public class testClass {
 	public static void main(String args[]){
 		testClass obj = new testClass("Ksenofon", 666);
 		System.out.println(obj.getName() + " " + obj.getAge());
-		System.out.println();
+		System.out.println();//print a line.
 	}
 }
